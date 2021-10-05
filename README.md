@@ -6,6 +6,7 @@ Estudo Desenvolvimento de Sistemas com aulas de:
 - 💻Técnica de Produção em Algoritmos
 - 💻 Design Digital
 - 👨‍💻 Fundamentos da Informática
+- 
 
 <!---
 JoaoEnrique/JoaoEnrique is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
