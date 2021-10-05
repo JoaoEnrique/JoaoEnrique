@@ -9,6 +9,8 @@ Estudo Desenvolvimento de Sistemas com aulas de:
 - 👨‍💻 Fundamentos da Informática
 - 
 
+Tenho habilidade com HTML, CSS e Java. Estou começando aprender Arduino.
+
 <!---
 JoaoEnrique/JoaoEnrique is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
