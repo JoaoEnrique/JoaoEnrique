@@ -7,7 +7,7 @@ Estudo Desenvolvimento de Sistemas com aulas de:
 - 💻Técnica de Produção em Algoritmos
 - 💻 Design Digital
 - 👨‍💻 Fundamentos da Informática
-- 
+
 
 Tenho habilidade com HTML, CSS e Java. Estou começando aprender Arduino.
 
