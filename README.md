@@ -16,3 +16,5 @@ JoaoEnrique/JoaoEnrique is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
  
+![Avatar](https://user-images.githubusercontent.com/87030375/138008978-8857d41f-074f-4816-bf41-2178ae9c2327.png)
+ 
