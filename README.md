@@ -15,4 +15,4 @@ Tenho habilidade com HTML, CSS, Java e estou aprendendo C++ pra programar em Ard
 JoaoEnrique/JoaoEnrique is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![Portfólio](https://user-images.githubusercontent.com/87030375/138008679-61ceb377-82fb-4ec7-857f-0bf482dd6913.png)
+ 
