@@ -14,14 +14,11 @@ Estudo Desenvolvimento de Sistemas na Etec Zona Leste. Tenho aulas práticas aul
  
 <div aling="center">
   <a href="https://www.linkedin.com/in/joãoenrique">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JoaoEnrique&layout=compact&show_icons=true&theme=highcontrast"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoEnrique&&theme=highcontrast&layout=compact"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JoaoEnrique&layout=compact&show_icons=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoEnrique&layout=compact"/>
  </a>
  </div>
- <!--
-![JoaoEnrique GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoEnrique&layout=compact&show_icons=true&theme=highcontrast)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoEnrique&&theme=highcontrast&layout=compact)](https://github.com/JoaoEnrique/github-readme-stats)
- -->
+ 
  <div style="display: inline_block"><br>
   <a href="https://www.linkedin.com/in/joãoenrique">
     <img align="center" alt="João-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
