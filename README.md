@@ -13,8 +13,8 @@ Estudo Desenvolvimento de Sistemas na Etec Zona Leste. Tenho aulas práticas aul
  
 <div aling="center">
   <a href="https://www.linkedin.com/in/joãoenrique">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JoaoEnrique&layout=compact&show_icons=true&theme=highcontrast"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoEnrique&layout=compact&theme=highcontrast"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JoaoEnrique&layout=compact&show_icons=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoEnrique&layout=compact"/>
  </a>
  </div>
  
