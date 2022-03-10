@@ -1,6 +1,7 @@
 
 <!-- /texto -->
 <h1>Olá sou o João Enrique</h1>
+
 Estudo Desenvolvimento de Sistemas na Etec Zona Leste. Tenho aulas práticas aulas de:
 
 - 👨‍💻 Programação web
@@ -9,17 +10,18 @@ Estudo Desenvolvimento de Sistemas na Etec Zona Leste. Tenho aulas práticas aul
 - 🐱‍💻 Banco de Dados
 - 💻 Programação de Aplicativos Mobile
 - 🖥 Análise de projetos de Sistemas
-<img height="170em" src="https://user-images.githubusercontent.com/87030375/138008978-8857d41f-074f-4816-bf41-2178ae9c2327.png"/>
- <!-- /texto -->
 
- ##
  <!-- /Commits --> 
-<div aling="center">
+ <div aling="center">
   <a href="https://www.linkedin.com/in/joãoenrique">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JoaoEnrique&layout=compact&show_icons=true&theme=Gradiente"/> <!-- /Commits --> 
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoEnrique&layout=compact"/> <!-- /Linguagens --> 
+   <img height="170em" src="https://user-images.githubusercontent.com/87030375/138008978-8857d41f-074f-4816-bf41-2178ae9c2327.png"/> <!-- /Imagem --> 
   </a>
 </div>
+ <!-- /texto -->
+ 
+ ##
  
  <!-- /Icones Linguagens --> 
  <div style="display: inline_block"><br>
@@ -57,10 +59,10 @@ Estudo Desenvolvimento de Sistemas na Etec Zona Leste. Tenho aulas práticas aul
   <a href="https://www.linkedin.com/in/joãoenrique" target="_blank">
    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"><!-- linkedin  -->
   </a> 
-  <a href="https://discord.gg/6cqN5V69" target="_blank">
+  <a href="" target="_blank">
    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"><!-- github  -->
   </a> 
-  <a href="" target="_blank">
+  <a href="https://discord.gg/uSsSHqkxF5" target="_blank">
    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"><!-- discord  -->
   </a>
   
