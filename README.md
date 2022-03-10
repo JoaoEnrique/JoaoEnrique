@@ -23,8 +23,8 @@ Estudo Desenvolvimento de Sistemas na Etec Zona Leste. Tenho aulas práticas aul
  
  <!-- /Icones Linguagens --> 
  <div style="display: inline_block"><br>
-  <a href="https://www.linkedin.com/in/joãoenrique">
-   <img style="background: red;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/><!--javascript-->
+  <a href="https://www.linkedin.com/in/joãoenrique" style="border:1px solid red;" >
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/><!--javascript-->
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/><!--html5-->
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/><!--css3-->
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/><!--java-->
@@ -37,6 +37,9 @@ Estudo Desenvolvimento de Sistemas na Etec Zona Leste. Tenho aulas práticas aul
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" height="40"/><!--wordpress-->
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40"/><!--linkedin-->
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="40"/><!--gimp-->
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40"/><!--Android-->
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40"/><!--Kotlin-->
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40"/><!--Windows-->
 
 <!--Site com os icones: https://devicon.dev/ -->
   </a>
