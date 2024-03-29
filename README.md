@@ -10,20 +10,20 @@ Fiz Desenvolvimentona Etec Zona Leste e estou no 1° Ano da Fatec Zona Leste
 - 🐱‍💻 Banco de Dados
 - 💻 Programação de Aplicativos Mobile
 - 🖥 Análise de projetos de Sistemas
-<img height="170em" src="https://user-images.githubusercontent.com/87030375/138008978-8857d41f-074f-4816-bf41-2178ae9c2327.png"/>
  <!-- /texto -->
 
+  <img height="370" src="https://github.com/JoaoEnrique13/JoaoEnrique13/assets/99426704/73e201aa-2cea-42da-8173-b64349de6e99"/>
+
+
+ ##
  <!-- /Commits --> 
- <div aling="center">
+<div aling="center">
   <a href="https://www.linkedin.com/in/joãoenrique">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JoaoEnrique&layout=compact&show_icons=true&theme=Gradiente"/> <!-- /Commits --> 
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoEnrique&layout=compact"/> <!-- /Linguagens -->
-   <img height="170em" src="https://user-images.githubusercontent.com/87030375/138008978-8857d41f-074f-4816-bf41-2178ae9c2327.png"/> <!-- /Imagem --> 
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JoaoEnrique13&layout=compact&show_icons=true&theme=Gradiente"/> <!-- /Commits --> 
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoEnrique13&layout=compact"/> <!-- /Linguagens --> 
+    <img height="170em" src="https://user-images.githubusercontent.com/87030375/138008978-8857d41f-074f-4816-bf41-2178ae9c2327.png"/>
   </a>
 </div>
- <!-- /texto -->
- 
- ##
  
  <!-- /Icones Linguagens --> 
  <div style="display: flex; justify-content: center; align-items: center;"><br>
@@ -68,7 +68,10 @@ Fiz Desenvolvimentona Etec Zona Leste e estou no 1° Ano da Fatec Zona Leste
  ##
 <!-- BOTÕES  -->
  <div> 
-  <a href="https://www.instagram.com/joao_enrique13/" target="_blank">
+  <a href="[https://discord.gg/6cqN5V69](https://joaoenrique.github.io/)" target="_blank">
+   <img src="https://img.shields.io/badge/Portifolio-100000?style=for-the-badge&logo=as&logoColor=white" target="_blank"><!-- github  -->
+  </a> 
+  <a href="https://www.instagram.com/joao_enrique13" target="_blank">
    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"><!-- instagram  -->
   </a>
   <a href = "mailto:contatojebsantosalves@gmail.com">
@@ -77,10 +80,7 @@ Fiz Desenvolvimentona Etec Zona Leste e estou no 1° Ano da Fatec Zona Leste
   <a href="https://www.linkedin.com/in/joãoenrique" target="_blank">
    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"><!-- linkedin  -->
   </a> 
-  <a href="https://github.com/JoaoEnrique/JoaoEnrique" target="_blank">
-   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"><!-- github  -->
-  </a> 
-  <a href="https://discord.gg/uSsSHqkxF5" target="_blank">
+  <a href="https://discord.com/channels/joaoenrique" target="_blank">
    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"><!-- discord  -->
   </a>
   
