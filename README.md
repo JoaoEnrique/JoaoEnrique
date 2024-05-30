@@ -2,9 +2,9 @@
 <!-- /texto -->
 <h1 translate="no"><<!-- -->h1>Olá Mundo. Sou o João Enrique<<!-- -->/h1></h1>
 
-Fiz Desenvolvimentona Etec Zona Leste e estou no 1° Ano da Fatec Zona Leste
+Fiz Desenvolvimentona Etec Zona Leste e estou no 1° Ano de ADS na Fatec Zona Leste
 
-- 👨‍💻 Programação web
+- 👨‍💻 Programação web Full-Stack
 - 🤖 Sistemas Embarcados
 - 💥 Dsenvolvimento de Sistemas
 - 🐱‍💻 Banco de Dados
@@ -31,8 +31,10 @@ Fiz Desenvolvimentona Etec Zona Leste e estou no 1° Ano da Fatec Zona Leste
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/composer/composer-original.svg"  height="40" /> <!--composer-->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45"/><!-- php -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"  height="60"/><!--mysql-->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg" height="40"/> <!--node-->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg" height="50"/> <!--node-->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg"  height="50"/> <!--express -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="40"/> <!--firestore-->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg" height="40"/> <!-- uml -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="40"/><!--Git-->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/><!--github-->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/><!--html5-->
@@ -40,33 +42,35 @@ Fiz Desenvolvimentona Etec Zona Leste e estou no 1° Ano da Fatec Zona Leste
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/><!--javascript-->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" height="40" /><!--bootstrap-->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" height="40" /><!--arduino-->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" height="40"/ /><!--C++-->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" height="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/><!--vscode-->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40"/><!--Windows-->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40"/><!--canva-->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="40"/><!--gimp-->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" height="60"/>,<!--Trello-->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/filezilla/filezilla-original.svg" height="40" /> <!--filezilla-->
-          
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original-wordmark.svg" height="80"/> <!-- insimnia -->
           
 <!--Site com os icones: https://devicon.dev/ -->
  </div>
  
-# Estudando
+# Estudando / Já estudei
 <div style="display: flex; justify-content: center; align-items: center;"><br>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/><!--python-->
-    <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40"/>-->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"  height="50"/><!-- Docker -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="40"/> <!-- c -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/><!--java-->
+    <img src="https://user-images.githubusercontent.com/87030375/176893095-60d28d3e-9199-4d44-a18a-0cf82232c422.svg" height="45"/><!--  NetBeans -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/><!--python-->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" height="40" /> <!-- junit -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain-wordmark.svg" height="40" /><!--Android-->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="45"/><!--Android Studio -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40"/><!--Kotlin-->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" height="40" />
-    <img src="https://user-images.githubusercontent.com/87030375/176893095-60d28d3e-9199-4d44-a18a-0cf82232c422.svg" height="45"/><!--  NetBeans -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" height="40" /> <!-- c# -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" height="40"/ /><!--C++-->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" height="40"/><!--wordpress-->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" height="60"/><!--Unity-->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"  height="50"/><!-- Docker -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" height="40"/><!-- react-->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-original.svg" height="40"/>
+          
           
           
 <!--Site com os icones: https://devicon.dev/ -->
