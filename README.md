@@ -79,7 +79,7 @@ Fiz Desenvolvimentona Etec Zona Leste e estou no 1° Ano de ADS na Fatec Zona Le
  ##
 <!-- BOTÕES  -->
  <div> 
-  <a href="[https://discord.gg/6cqN5V69](https://joaoenrique.github.io/)" target="_blank">
+  <a href="https://joaoenrique.github.io/" target="_blank">
    <img src="https://img.shields.io/badge/Portifolio-100000?style=for-the-badge&logo=as&logoColor=white" target="_blank"><!-- github  -->
   </a> 
   <a href="https://www.instagram.com/joao_enrique13" target="_blank">
@@ -94,7 +94,7 @@ Fiz Desenvolvimentona Etec Zona Leste e estou no 1° Ano de ADS na Fatec Zona Le
   <a href="https://discord.com/channels/joaoenrique" target="_blank">
    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"><!-- discord  -->
   </a>
-  
-  ![Snake animation](https://github.com/JoaoEnrique/JoaoEnrique/blob/output/github-contribution-grid-snake.svg?v=2)
- 	
+  <!--
+  ![Snake animation](https://github.com/JoaoEnrique/JoaoEnrique/blob/output/github-contribution-grid-snake.svg?v=3)
+ 	-->
 </div>
