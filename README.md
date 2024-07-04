@@ -79,7 +79,7 @@ Fiz Desenvolvimentona Etec Zona Leste e estou no 1° Ano de ADS na Fatec Zona Le
  ##
 <!-- BOTÕES  -->
  <div> 
-  <a href="https://joaoenrique.github.io/" target="_blank">
+  <a href="https://joaoenrique.github.io/" target="_BLANK">
    <img src="https://img.shields.io/badge/Portifolio-100000?style=for-the-badge&logo=as&logoColor=white" target="_blank"><!-- github  -->
   </a> 
   <a href="https://www.instagram.com/joao_enrique13" target="_blank">
