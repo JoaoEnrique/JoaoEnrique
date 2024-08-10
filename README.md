@@ -19,8 +19,8 @@ Fiz Desenvolvimentona Etec Zona Leste e estou no 1° Ano de ADS na Fatec Zona Le
  <!-- /Commits --> 
 <div aling="center">
   <a href="https://www.linkedin.com/in/joãoenrique">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JoaoEnrique&layout=compact&show_icons=true&theme=Gradiente"/> <!-- /Commits --> 
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoEnrique&layout=compact"/> <!-- /Linguagens --> 
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JoaoEnrique&layout=compact&show_icons=true&theme=Gradiente&v=2"/> <!-- /Commits --> 
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoEnrique&layout=compact&v=2"/> <!-- /Linguagens --> 
     <img height="170em" src="https://user-images.githubusercontent.com/87030375/138008978-8857d41f-074f-4816-bf41-2178ae9c2327.png"/>
   </a>
 </div>
