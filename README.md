@@ -1,16 +1,10 @@
-
 <!-- /texto -->
 <h1 translate="no"><<!-- -->h1>Olá Mundo. Sou o João Enrique<<!-- -->/h1></h1>
+Sou programador júnior web Full Stack com experiência em Laravek e MySQL. 
 
-Fiz Desenvolvimentona Etec Zona Leste e estou no 1° Ano de ADS na Fatec Zona Leste
+- 👨‍💻 WEB: Laravel, MySQL, Node.js e React
+- 🤖 Mobile: React Native e Kotlin
 
-- 👨‍💻 Programação web Full-Stack
-- 🤖 Sistemas Embarcados
-- 💥 Dsenvolvimento de Sistemas
-- 🐱‍💻 Banco de Dados
-- 💻 Programação de Aplicativos Mobile
-- 🖥 Análise de projetos de Sistemas
- <!-- /texto -->
 
   <img height="370" src="https://github.com/JoaoEnrique13/JoaoEnrique13/assets/99426704/73e201aa-2cea-42da-8173-b64349de6e99"/>
 
@@ -57,6 +51,8 @@ Fiz Desenvolvimentona Etec Zona Leste e estou no 1° Ano de ADS na Fatec Zona Le
 <div style="display: flex; justify-content: center; align-items: center;"><br>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"  height="50"/><!-- Docker -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="40"/> <!-- c -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="40"/><!-- c# -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="40"/><!--C++-->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/><!--java-->
     <img src="https://user-images.githubusercontent.com/87030375/176893095-60d28d3e-9199-4d44-a18a-0cf82232c422.svg" height="45"/><!--  NetBeans -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/><!--python-->
@@ -64,13 +60,17 @@ Fiz Desenvolvimentona Etec Zona Leste e estou no 1° Ano de ADS na Fatec Zona Le
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain-wordmark.svg" height="40" /><!--Android-->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="45"/><!--Android Studio -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40"/><!--Kotlin-->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" height="40" /> <!-- c# -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" height="40"/ /><!--C++-->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" height="40"/><!--wordpress-->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" height="60"/><!--Unity-->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" height="40"/><!-- react-->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-original.svg" height="40"/>
-          
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="40" /> <!-- linux -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" height="40" /> <!-- postgree -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="40"/>
+
+
+
           
           
 <!--Site com os icones: https://devicon.dev/ -->
