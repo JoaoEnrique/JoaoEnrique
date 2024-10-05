@@ -3,10 +3,10 @@
 Sou programador júnior web Full Stack com experiência em Laravek e MySQL. 
 
 - 👨‍💻 WEB: Laravel, MySQL, Node.js e React
-- 🤖 Mobile: React Native e Kotlin
+- 🤖 Mobile: React Native e Kotlin.
 
 
-  <img height="370" src="https://github.com/JoaoEnrique13/JoaoEnrique13/assets/99426704/73e201aa-2cea-42da-8173-b64349de6e99"/>
+<img height="370" src="https://github.com/JoaoEnrique13/JoaoEnrique13/assets/99426704/73e201aa-2cea-42da-8173-b64349de6e99"/>
 
 
  ##
