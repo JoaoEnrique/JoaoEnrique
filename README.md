@@ -1,5 +1,6 @@
 <!-- /texto -->
 <h1 translate="no"><<!-- -->h1>Olá Mundo. Sou o João Enrique<<!-- -->/h1></h1>
+ 
 Sou programador júnior web Full Stack com experiência em Laravel e MySQL. 
 
 - 👨‍💻 WEB: Laravel, MySQL, Node.js e React
