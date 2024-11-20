@@ -1,10 +1,11 @@
 <!-- /texto -->
 <h1 translate="no"><<!-- -->h1>Olá Mundo. Sou o João Enrique<<!-- -->/h1></h1>
  
-Sou programador júnior web Full Stack com experiência em Laravel e MySQL. 
+Sou desenvolvedor de software full-stack na IBM
 
 - 👨‍💻 WEB: Laravel, MySQL, Node.js e React
 - 🤖 Mobile: React Native e Kotlin.
+- IoT: Arduino, ESP32/ESP8266 e C++
 
 
 <img height="370" src="https://github.com/JoaoEnrique13/JoaoEnrique13/assets/99426704/73e201aa-2cea-42da-8173-b64349de6e99"/>
