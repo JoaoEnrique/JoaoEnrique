@@ -1,11 +1,17 @@
 <!-- /texto -->
 <h1 translate="no"><<!-- -->h1>Olá Mundo. Sou o João Enrique<<!-- -->/h1></h1>
  
-Sou desenvolvedor de software full-stack na IBM
+Sou desenvolvedor de software Full-Stack na IBM, utilizando React JS e atuando também na área de testes com Jest.
+
+Desenvolvi uma rede social que está em produção: https://pacoca.net
+
+Fiz o ensino médio com Técnico em Desenvolvimento de Sistemas e atualmente estou no último ano em Análise e Desenvolvimento de Sistemas na Fatec Zona Leste.
+
+Trabalhei por 8 meses antes de ir para IBM em uma empresa de desenvolvimento de software utilizando Laravel/PHP, MySQL e React.
 
 - 👨‍💻 WEB: Laravel, MySQL, Node.js, Jest, e React JS
-- 🤖 Mobile: React Native.
-- IoT: Arduino, ESP32/ESP8266 e C++
+- 📱 Mobile: React Native.
+- 🤖 IoT: Arduino, ESP32/ESP8266 e C++
 <img height="370" src="https://github.com/JoaoEnrique13/JoaoEnrique13/assets/99426704/73e201aa-2cea-42da-8173-b64349de6e99"/>
 
  ##
