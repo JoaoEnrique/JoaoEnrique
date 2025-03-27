@@ -5,13 +5,7 @@ Olá! Meu nome é João Enrique, tenho 19 anos e atualmente trabalho na área de
 
 Desenvolvi de forma independente o Paçoca, uma rede social atualmente em produção, utilizando as tecnologias Laravel, React JS e MySQL. Link: https://pacoca.net
 
-Trabalhei como desenvolvedor Júnior especializado em programação Full-Stack com Laravel, MySQL, Tailwind CSS, React JS e Bootstrap. Atualmente, estou ampliando meus conhecimentos em React Native para projetos pessoais.
-
 Sou apaixonado pela área de IoT e criei alguns projetos com a Internet das Coisas, como um braço mecânico controlado por voz desenvolvido com ESP32, C++ e Python.
-
-Concluí o ensino médio com técnico em Desenvolvimento de Sistemas na Etec Zona Leste e, atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Fatec Zona Leste.
-
-Estou sempre em busca de aprimorar minhas habilidades e me manter atualizado com as tecnologias mais recentes. Estou aberto a novas oportunidades e desafios que permitam meu crescimento no desenvolvimento de software.
 
 - 👨‍💻 WEB: Laravel, MySQL, Node.js, Jest, e React JS
 - 📱 Mobile: React Native.
