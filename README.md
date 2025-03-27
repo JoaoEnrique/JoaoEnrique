@@ -1,13 +1,17 @@
 <!-- /texto -->
 <h1 translate="no"><<!-- -->h1>Olá Mundo. Sou o João Enrique<<!-- -->/h1></h1>
  
-Sou desenvolvedor de software Full-Stack na IBM, utilizando React JS e atuando também na área de testes com Jest.
+Olá! Meu nome é João Enrique, tenho 19 anos e atualmente trabalho na área de Consulting na IBM. Iniciei na IBM como desenvolvedor de automação de testes com Java e migrei para a área de Consulting, onde trabalho em um projeto da Petrobras utilizando React JS.
 
-Desenvolvi uma rede social que está em produção: https://pacoca.net
+Desenvolvi de forma independente o Paçoca, uma rede social atualmente em produção, utilizando as tecnologias Laravel, React JS e MySQL. Link: https://pacoca.net
 
-Fiz o ensino médio com Técnico em Desenvolvimento de Sistemas e atualmente estou no último ano em Análise e Desenvolvimento de Sistemas na Fatec Zona Leste.
+Trabalhei como desenvolvedor Júnior especializado em programação Full-Stack com Laravel, MySQL, Tailwind CSS, React JS e Bootstrap. Atualmente, estou ampliando meus conhecimentos em React Native para projetos pessoais.
 
-Trabalhei por 8 meses antes de ir para IBM em uma empresa de desenvolvimento de software utilizando Laravel/PHP, MySQL e React.
+Sou apaixonado pela área de IoT e criei alguns projetos com a Internet das Coisas, como um braço mecânico controlado por voz desenvolvido com ESP32, C++ e Python.
+
+Concluí o ensino médio com técnico em Desenvolvimento de Sistemas na Etec Zona Leste e, atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Fatec Zona Leste.
+
+Estou sempre em busca de aprimorar minhas habilidades e me manter atualizado com as tecnologias mais recentes. Estou aberto a novas oportunidades e desafios que permitam meu crescimento no desenvolvimento de software.
 
 - 👨‍💻 WEB: Laravel, MySQL, Node.js, Jest, e React JS
 - 📱 Mobile: React Native.
