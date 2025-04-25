@@ -1,9 +1,9 @@
 <!-- /texto -->
 <h1 translate="no"><<!-- -->h1>Olá Mundo. Sou o João Enrique<<!-- -->/h1></h1>
  
-Olá! Meu nome é João Enrique, tenho 19 anos e atualmente trabalho na área de Consulting na IBM. Iniciei na IBM como desenvolvedor de automação de testes com Java e migrei para a área de Consulting, onde trabalho em um projeto da Petrobras utilizando React JS.
+Trabalho na área de Consulting na IBM, onde estou em um projeto da Petrobras utilizando React JS.
 
-Desenvolvi de forma independente o Paçoca, uma rede social atualmente em produção, utilizando as tecnologias Laravel, React JS e MySQL. Link: https://pacoca.net
+Desenvolvi de forma independente o [Paçoca](https://pacoca.net), uma rede social atualmente em produção, utilizando as tecnologias Laravel, React JS e MySQL.
 
 Sou apaixonado pela área de IoT e criei alguns projetos com a Internet das Coisas, como um braço mecânico controlado por voz desenvolvido com ESP32, C++ e Python.
 
