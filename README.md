@@ -23,50 +23,19 @@ Sou apaixonado pela área de IoT e criei alguns projetos com a Internet das Cois
 </div>
 
 # Principais tecnologias
-<div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg"  height="50" /> <!--laravel-->
-   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/composer/composer-original.svg"  height="40" /> <!--composer-->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45"/><!-- php -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"  height="60"/><!--mysql-->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="40"/> <!-- nodejs -->
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg"  height="40"/>  <!-- jest -->     
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg" height="40"/> <!-- uml -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="40"/><!--Git-->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/><!--github-->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/><!--html5-->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/><!--css3-->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/><!--javascript-->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="40"/> <!-- typescript -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40"/> <!-- tailwindcss -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" height="40" /><!--bootstrap-->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" height="40"/><!-- react-->
-          
-<!--Site com os icones: https://devicon.dev/ -->
- </div>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=laravel,php,mysql,nodejs,jest,git,github,html,css,js,ts,tailwind,bootstrap,react" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg" height="40"/> <!-- uml -->
+  </a>
+</p>
  
 # Outras tecnologias
-<div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"  height="50"/><!-- Docker -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg" height="50"/> <!-- firestore -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="40"/> <!-- c -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="40"/><!-- c# -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="40"/><!--C++-->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/><!--java-->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/><!--python-->
-    <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" height="40" /> <!-- junit -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain-wordmark.svg" height="40" /><!--Android-->
-    <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40"/><!--Kotlin-->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg"  height="50"/> <!--express -->
-    <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" height="40"/><!--wordpress-->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" height="60"/><!--Unity-->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-original.svg" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" height="40"/>
-    <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="40" /> <!-- linux -->
-    <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" height="40" /> <!-- postgree -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" height="40" /><!--arduino-->
-    <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original-wordmark.svg" height="80"/> <!-- insimnia -->
-<!--Site com os icones: https://devicon.dev/ -->
- </div>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,angular,firebase,c,cs,cpp,java,python,express,unity,sequelize,vue,arduino,electron" />
+  </a>
+</p>
 
   # Ferramentas/Softwares
   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/><!--vscode-->
@@ -80,23 +49,19 @@ Sou apaixonado pela área de IoT e criei alguns projetos com a Internet das Cois
  
  ##
 <!-- BOTÕES  -->
+
+<p>
+  <a href="https://www.linkedin.com/in/joãoenrique">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="[https://skillicons.dev](https://discord.com/channels/joaoenrique)">
+    <img src="https://skillicons.dev/icons?i=discord" />
+  </a>
+</p>
+
+
  <div> 
   <a href="https://joaoenrique.github.io/" target="_BLANK">
    <img src="https://img.shields.io/badge/Portifolio-100000?style=for-the-badge&logo=as&logoColor=white" target="_blank"><!-- github  -->
   </a> 
-  <!--<a href="https://www.instagram.com/joao_enrique13" target="_blank">
-   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"><!-- instagram 
-  </a> -->
-  <!-- <a href = "mailto:contatojebsantosalves@gmail.com">
-   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"><!-- gmail
-  </a> -->
-  <a href="https://www.linkedin.com/in/joãoenrique" target="_blank">
-   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"><!-- linkedin  -->
-  </a> 
-  <a href="https://discord.com/channels/joaoenrique" target="_blank">
-   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"><!-- discord  -->
-  </a>
-  <!--
-  ![Snake animation](https://github.com/JoaoEnrique/JoaoEnrique/blob/output/github-contribution-grid-snake.svg?v=3)
- 	-->
 </div>
