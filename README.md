@@ -25,7 +25,8 @@ Sou apaixonado pela área de IoT e criei alguns projetos com a Internet das Cois
 # Principais tecnologias
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,php,mysql,nodejs,jest,git,github,githubactions,html,css,js,ts,tailwind,bootstrap,react" />
+    <img src="https://skillicons.dev/icons?i=laravel,php,mysql,nodejs,jest,git,github,githubactions,html,css,js,ts,tailwind,bootstrap,react,jwt" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=reactnative,pytest" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg" height="40"/> <!-- uml -->
   </a>
 </p>
@@ -33,20 +34,16 @@ Sou apaixonado pela área de IoT e criei alguns projetos com a Internet das Cois
 # Outras tecnologias
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=fastapi,docker,angular,firebase,c,cs,cpp,java,python,express,unity,sequelize,vue,arduino,electron" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi,docker,angular,firebase,c,cs,cpp,java,python,express,unity,sequelize,vue,arduino,electron" />
   </a>
 </p>
 
   # Ferramentas/Softwares
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/><!--vscode-->
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40"/><!--Windows-->
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40"/><!--canva-->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="40"/><!--gimp-->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" height="60"/>,<!--Trello-->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/filezilla/filezilla-original.svg" height="40" /> <!--filezilla-->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="45"/><!--Android Studio -->
-    <img src="https://user-images.githubusercontent.com/87030375/176893095-60d28d3e-9199-4d44-a18a-0cf82232c422.svg" height="45"/><!--  NetBeans -->
- 
+  <img src="https://user-images.githubusercontent.com/87030375/176893095-60d28d3e-9199-4d44-a18a-0cf82232c422.svg" height="45"/><!--  NetBeans -->
  ##
 <!-- BOTÕES  -->
 
