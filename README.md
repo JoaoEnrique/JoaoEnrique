@@ -25,7 +25,7 @@ Sou apaixonado pela área de IoT e criei alguns projetos com a Internet das Cois
 # Principais tecnologias
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,php,mysql,nodejs,jest,git,github,html,css,js,ts,tailwind,bootstrap,react" />
+    <img src="https://skillicons.dev/icons?i=laravel,php,mysql,nodejs,jest,git,github,githubactions,html,css,js,ts,tailwind,bootstrap,react" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg" height="40"/> <!-- uml -->
   </a>
 </p>
@@ -33,7 +33,7 @@ Sou apaixonado pela área de IoT e criei alguns projetos com a Internet das Cois
 # Outras tecnologias
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,angular,firebase,c,cs,cpp,java,python,express,unity,sequelize,vue,arduino,electron" />
+    <img src="https://skillicons.dev/icons?i=fastapi,docker,angular,firebase,c,cs,cpp,java,python,express,unity,sequelize,vue,arduino,electron" />
   </a>
 </p>
 
