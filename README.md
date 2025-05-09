@@ -25,9 +25,8 @@ Sou apaixonado pela área de IoT e criei alguns projetos com a Internet das Cois
 # Principais tecnologias
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,php,mysql,nodejs,jest,git,github,githubactions,html,css,js,ts,tailwind,bootstrap,react,jwt" />
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=reactnative,pytest" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg" height="40"/> <!-- uml -->
+    <img src="https://skillicons.dev/icons?i=laravel,php,mysql,nodejs,jest,git,github,githubactions,html,css,js,ts,tailwind,bootstrap,react" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=reactnative,jwt,pytest,uml" />
   </a>
 </p>
  
