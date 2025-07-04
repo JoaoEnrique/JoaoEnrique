@@ -30,21 +30,19 @@ Sou apaixonado pela área de IoT e criei alguns projetos com a Internet das Cois
  
 # Outras tecnologias
 <p>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi,docker,angular,firebase,c,cs,cpp,java,python,express,unity,sequelize,vue,arduino,electron" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,fastapi,docker,angular,firebase,c,cs,cpp,java,python,express,unity,sequelize,vue,arduino,expo,electron,spring,jenkins" />
 </p>
 
-  # Ferramentas/Softwares
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="40"/><!--gimp-->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" height="60"/>,<!--Trello-->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/filezilla/filezilla-original.svg" height="40" /> <!--filezilla-->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="45"/><!--Android Studio -->
-  <img src="https://user-images.githubusercontent.com/87030375/176893095-60d28d3e-9199-4d44-a18a-0cf82232c422.svg" height="45"/><!--  NetBeans -->
- ##
-<!-- BOTÕES  -->
-
+ # Ferramentas/Softwares  
+<p>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=postman,gimp,androidstudio,vscode" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/filezilla/filezilla-original.svg" width="40" /> <!--filezilla-->
+</p>
+ 
+# Contato
 <p>
   <a href="https://www.linkedin.com/in/joãoenrique">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+   <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" />
   </a>
   <a href="[https://skillicons.dev](https://discord.com/channels/joaoenrique)">
     <img src="https://skillicons.dev/icons?i=discord" />
@@ -52,7 +50,6 @@ Sou apaixonado pela área de IoT e criei alguns projetos com a Internet das Cois
 </p>
 
 
- <div> 
   <a href="https://joaoenrique.github.io/" target="_BLANK">
    <img src="https://img.shields.io/badge/Portifolio-100000?style=for-the-badge&logo=as&logoColor=white" target="_blank"><!-- github  -->
   </a> 
