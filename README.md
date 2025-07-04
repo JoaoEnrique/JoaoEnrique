@@ -30,7 +30,7 @@ Sou apaixonado pela área de IoT e criei alguns projetos com a Internet das Cois
  
 # Outras tecnologias
 <p>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,fastapi,docker,angular,firebase,c,cs,cpp,java,python,express,unity,sequelize,vue,arduino,expo,electron,spring,jenkins" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,fastapi,docker,angular,firebase,c,cs,cpp,java,express,unity,sequelize,vue,arduino,expo,electron,spring,jenkins" />
 </p>
 
  # Ferramentas/Softwares  
