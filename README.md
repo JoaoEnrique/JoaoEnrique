@@ -24,17 +24,13 @@ Sou apaixonado pela área de IoT e criei alguns projetos com a Internet das Cois
 
 # Principais tecnologias
 <p>
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=laravel,php,mysql,nodejs,jest,git,github,githubactions,html,css,js,ts,tailwind,bootstrap,react" />
     <img src="https://go-skill-icons.vercel.app/api/icons?i=reactnative,jwt,pytest,uml" />
-  </a>
 </p>
  
 # Outras tecnologias
 <p>
-  <a href="https://skillicons.dev">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi,docker,angular,firebase,c,cs,cpp,java,python,express,unity,sequelize,vue,arduino,electron" />
-  </a>
 </p>
 
   # Ferramentas/Softwares
