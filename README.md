@@ -3,7 +3,7 @@
  
 Trabalho na área de Consulting na IBM, onde estou em um projeto da Petrobras utilizando React JS.
 
-Desenvolvi de forma independente o [Paçoca](https://pacoca.net), uma rede social atualmente em produção, utilizando as tecnologias Laravel, React JS e MySQL.
+Desenvolvi de forma independente uma [rede social](https://pacoca.net) de forma independente e com usuários ativos, utilizando as tecnologias Laravel, React JS e MySQL. Disponível em: https://pacoca.net
 
 Sou apaixonado pela área de IoT e criei alguns projetos com a Internet das Coisas, como um braço mecânico controlado por voz desenvolvido com ESP32, C++ e Python.
 
